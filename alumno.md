@@ -1,10 +1,10 @@
 # Datos del alumno/a
 
-Nombre: Tu nombre y Dos apellidos
+Nombre: Diego Gonzalez Manzanero
 
-Curso: 1DAW o 2DAW
+Curso: 1DAW
 
-Email: tu email de IES Luis Vives o EducaMadrid
+Email: diego.gonzalezmanzanero@alumno.iesluisvives.org
 
-Nick GitHub: Tu nick de GitHub
+Nick GitHub: ByDiegox78
 
